@@ -1,0 +1,29 @@
+/*selector universal*/
+
+
+*{
+background-color: rgb(138, 72, 97);
+
+color: rgb(38, 0, 173);
+}
+ h1{
+color: rgb(216, 216, 29);    
+ }
+ h2{
+    color: black;
+ }
+
+ h3{
+    color: rgb(247, 90, 90);
+ }
+
+ .serif{
+
+   font-family: serif;
+ }
+
+img,video{
+
+   width: 400px;
+   height: 400px;
+}
